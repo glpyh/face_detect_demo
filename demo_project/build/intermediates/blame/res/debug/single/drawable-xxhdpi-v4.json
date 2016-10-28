@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\wangyuchi\\android\\demo_project\\demo_project\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon.png",
+        "source": "F:\\wangyuchi\\android\\demo_project\\demo_project\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon.png",
+        "source": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_background.png",
+        "source": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\src\\main\\res\\drawable-xxhdpi\\loading_background.png"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\demo_project\\demo_project\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\fpplogo.png",
+        "source": "F:\\wangyuchi\\android\\demo_project\\demo_project\\build\\intermediates\\exploded-aar\\demo_project\\facepp_ui_library\\unspecified\\res\\drawable-xxhdpi-v4\\fpplogo.png"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\demo_project\\demo_project\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_background.png",
+        "source": "F:\\wangyuchi\\android\\demo_project\\demo_project\\src\\main\\res\\drawable-xxhdpi\\loading_background.png"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\fpplogo.png",
+        "source": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\build\\intermediates\\exploded-aar\\my_demo_project\\facepp_ui_library\\unspecified\\res\\drawable-xxhdpi-v4\\fpplogo.png"
+    }
+]

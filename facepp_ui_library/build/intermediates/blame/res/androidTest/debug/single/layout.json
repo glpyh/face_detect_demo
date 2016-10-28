@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\wangyuchi\\android\\my_demo_project\\facepp_ui_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\loading_layout.xml",
+        "source": "F:\\wangyuchi\\android\\my_demo_project\\facepp_ui_library\\build\\intermediates\\bundles\\debug\\res\\layout\\loading_layout.xml"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\my_demo_project\\facepp_ui_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\picture_layout.xml",
+        "source": "F:\\wangyuchi\\android\\my_demo_project\\facepp_ui_library\\build\\intermediates\\bundles\\debug\\res\\layout\\picture_layout.xml"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\demo_project\\facepp_ui_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_opengl.xml",
+        "source": "F:\\wangyuchi\\android\\demo_project\\facepp_ui_library\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_opengl.xml"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\demo_project\\facepp_ui_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\cameralist_item.xml",
+        "source": "F:\\wangyuchi\\android\\demo_project\\facepp_ui_library\\build\\intermediates\\bundles\\debug\\res\\layout\\cameralist_item.xml"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\my_demo_project\\facepp_ui_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_opengl.xml",
+        "source": "F:\\wangyuchi\\android\\my_demo_project\\facepp_ui_library\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_opengl.xml"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\my_demo_project\\facepp_ui_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\cameralist_item.xml",
+        "source": "F:\\wangyuchi\\android\\my_demo_project\\facepp_ui_library\\build\\intermediates\\bundles\\debug\\res\\layout\\cameralist_item.xml"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\my_demo_project\\facepp_ui_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\picture_item.xml",
+        "source": "F:\\wangyuchi\\android\\my_demo_project\\facepp_ui_library\\build\\intermediates\\bundles\\debug\\res\\layout\\picture_item.xml"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\demo_project\\facepp_ui_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\loading_layout.xml",
+        "source": "F:\\wangyuchi\\android\\demo_project\\facepp_ui_library\\build\\intermediates\\bundles\\debug\\res\\layout\\loading_layout.xml"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\demo_project\\facepp_ui_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\picture_item.xml",
+        "source": "F:\\wangyuchi\\android\\demo_project\\facepp_ui_library\\build\\intermediates\\bundles\\debug\\res\\layout\\picture_item.xml"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\demo_project\\facepp_ui_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\picture_layout.xml",
+        "source": "F:\\wangyuchi\\android\\demo_project\\facepp_ui_library\\build\\intermediates\\bundles\\debug\\res\\layout\\picture_layout.xml"
+    }
+]

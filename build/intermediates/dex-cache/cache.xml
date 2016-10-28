@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\wangyuchi\android\my_demo_project\demo_project\build\intermediates\exploded-aar\my_demo_project\facepp_ui_library\unspecified\jars\libs\megvii-facepp-0.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5af7dbb7d5c89db67be9d7ed3bc839815f2f8d4c">
+        <dex dex="F:\wangyuchi\android\my_demo_project\demo_project\build\intermediates\transforms\dex\debug\folders\1000\8\megvii-facepp-0.2.0_9e0860a2e99ce49b09a434d8c8e2799ecd9b26d8\classes.dex" />
+    </item>
+
+</items>

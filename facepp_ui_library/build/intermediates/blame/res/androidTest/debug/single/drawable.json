@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\wangyuchi\\android\\my_demo_project\\facepp_ui_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progress_horizontal.xml",
+        "source": "F:\\wangyuchi\\android\\my_demo_project\\facepp_ui_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\progress_horizontal.xml"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\my_demo_project\\facepp_ui_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_button0_select.xml",
+        "source": "F:\\wangyuchi\\android\\my_demo_project\\facepp_ui_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_button0_select.xml"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\demo_project\\facepp_ui_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_button0_select.xml",
+        "source": "F:\\wangyuchi\\android\\demo_project\\facepp_ui_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_button0_select.xml"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\demo_project\\facepp_ui_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progress_horizontal.xml",
+        "source": "F:\\wangyuchi\\android\\demo_project\\facepp_ui_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\progress_horizontal.xml"
+    }
+]

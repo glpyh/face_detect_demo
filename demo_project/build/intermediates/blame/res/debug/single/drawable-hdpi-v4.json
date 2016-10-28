@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\wangyuchi\\android\\demo_project\\demo_project\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "F:\\wangyuchi\\android\\demo_project\\demo_project\\build\\intermediates\\exploded-aar\\demo_project\\facepp_ui_library\\unspecified\\res\\drawable-hdpi-v4\\icon.png"
+    },
+    {
+        "merged": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\build\\intermediates\\exploded-aar\\my_demo_project\\facepp_ui_library\\unspecified\\res\\drawable-hdpi-v4\\icon.png"
+    }
+]

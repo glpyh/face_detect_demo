@@ -1,0 +1,400 @@
+[
+    {
+        "outputFile": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 19,
+                    "endOffset": 242
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 9,
+                        "endColumn": 19,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 247,
+                    "endColumn": 51,
+                    "endOffset": 294
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 417,
+                        "endColumn": 51,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 57,
+                    "endOffset": 495
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 500,
+                    "endColumn": 55,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 47,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 47,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endColumn": 52,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 364,
+                        "endColumn": 52,
+                        "endOffset": 412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endColumn": 56,
+                    "endOffset": 709
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 56,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 714,
+                    "endColumn": 52,
+                    "endOffset": 762
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 52,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 767,
+                    "endColumn": 80,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 87,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1003
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\my_demo_project\\demo_project\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 387
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\wangyuchi\\android\\demo_project\\demo_project\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 19,
+                    "endOffset": 242
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\demo_project\\demo_project\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 9,
+                        "endColumn": 19,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 247,
+                    "endColumn": 51,
+                    "endOffset": 294
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\demo_project\\demo_project\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 417,
+                        "endColumn": 51,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 57,
+                    "endOffset": 495
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\demo_project\\demo_project\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 500,
+                    "endColumn": 55,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\demo_project\\demo_project\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 47,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\demo_project\\demo_project\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 47,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endColumn": 52,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\demo_project\\demo_project\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 364,
+                        "endColumn": 52,
+                        "endOffset": 412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endColumn": 56,
+                    "endOffset": 709
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\demo_project\\demo_project\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 56,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 714,
+                    "endColumn": 52,
+                    "endOffset": 762
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\demo_project\\demo_project\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 52,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 767,
+                    "endColumn": 80,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\demo_project\\demo_project\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 87,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1003
+                },
+                "from": {
+                    "file": "F:\\wangyuchi\\android\\demo_project\\demo_project\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 387
+                    }
+                }
+            }
+        ]
+    }
+]

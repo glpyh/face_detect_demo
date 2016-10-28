@@ -1,0 +1,6 @@
+CHANGED,F:\wangyuchi\android\my_demo_project\demo_project\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\megvii\landmarklib\OpenglActivity$3$override.class
+CHANGED,F:\wangyuchi\android\my_demo_project\demo_project\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\megvii\landmarklib\OpenglActivity$override.class
+CHANGED,F:\wangyuchi\android\my_demo_project\demo_project\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,F:\wangyuchi\android\my_demo_project\demo_project\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\megvii\landmarklib\OpenglActivity$3$1$override.class
+CHANGED,F:\wangyuchi\android\my_demo_project\demo_project\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\megvii\landmarklib\OpenglActivity$4$override.class
+CHANGED,F:\wangyuchi\android\my_demo_project\demo_project\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\megvii\landmarklib\OpenglActivity$5$override.class

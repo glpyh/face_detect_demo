@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="400dpi"
+    format="7"
+    timestamp="675202666869340"
+    token="862700800524413666" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build timestamp="675103544407769" >
+        <artifact
+            location="F:\wangyuchi\android\my_demo_project\demo_project\build\outputs\apk\demo_project-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="675202666869340" />
+
+</instant-run>
